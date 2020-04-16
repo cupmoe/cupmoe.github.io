@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cupmoe.github.io</id>
+    <id>https://glow.xin</id>
     <title>Gridea</title>
-    <updated>2020-04-16T15:55:23.323Z</updated>
+    <updated>2020-04-16T15:55:54.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cupmoe.github.io"/>
-    <link rel="self" href="https://cupmoe.github.io/atom.xml"/>
+    <link rel="alternate" href="https://glow.xin"/>
+    <link rel="self" href="https://glow.xin/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://cupmoe.github.io/images/avatar.png</logo>
-    <icon>https://cupmoe.github.io/favicon.ico</icon>
+    <logo>https://glow.xin/images/avatar.png</logo>
+    <icon>https://glow.xin/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cupmoe.github.io/post/hello-gridea/</id>
-        <link href="https://cupmoe.github.io/post/hello-gridea/">
+        <id>https://glow.xin/post/hello-gridea/</id>
+        <link href="https://glow.xin/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
